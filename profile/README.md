@@ -1,6 +1,6 @@
 # OhMyIDC Project
 
-<div align="centre">[简体中文](README-CN.md)</div>
+<p align="centre">[简体中文](README-CN.md)</p>
 
 Welcome to **OhMyIDC Project**!
 
